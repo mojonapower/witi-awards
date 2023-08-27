@@ -1,0 +1,48 @@
+.button {
+    background: linear-gradient(180deg, rgb(155, 81, 224) 19.72%, rgba(48, 129, 237, 0.8) 100%);
+    border-radius: 16px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 12px 24px;
+    width: 218px;
+  }
+  .button-outline {
+    border: 1px solid;
+    border-color: #d7d7d7;
+    border-radius: 16px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 12px 24px;
+    width: 218px;
+  }
+  .text-wrapper {
+    color: #ffffff;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: -1px;
+    line-height: 36px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+
+
+  
+  .outline-text-wrapper {
+    color: #d7d7d7;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: -1px;
+    line-height: 36px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  
