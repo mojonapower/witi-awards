@@ -1,0 +1,11 @@
+.card{
+    width: 504px;
+    height: 585px;
+    flex-shrink: 0;
+    border-radius: 35.025px;
+    background: linear-gradient(139deg, rgba(58, 129, 191, 0.08) 0%, rgba(65, 48, 90, 0.08) 100%);
+    backdrop-filter: blur(555px);
+    border: 0.5px solid rgba(51, 26, 51, 0.645);
+    padding: 15px;
+
+}
